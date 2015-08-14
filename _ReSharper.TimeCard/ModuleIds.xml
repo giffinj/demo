@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="C8F6723A-73D8-47FA-969C-13A2C9E6165C" ModuleId="TimeCard.Data" />
+  <Module PersistentId="1E6A1CA4-D82D-41FB-8C54-53E69CF13FC6" ModuleId="TimeCard.Service" />
+  <Module PersistentId="CD68ED6A-83FD-43A5-AD3E-FB7A22E4BAAC" ModuleId="root" />
+  <Module PersistentId="D5A3AA60-BDD9-4965-807A-E7ADD798D72A" ModuleId="WcfService1" />
+  <Module PersistentId="9D9B98F2-32ED-44DD-AF48-4DAB4AFBABB2" ModuleId="WcfServiceLibrary1" />
+</Modules>
