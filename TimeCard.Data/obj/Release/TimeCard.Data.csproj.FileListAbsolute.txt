@@ -1,6 +1,0 @@
-E:\docs\Demo\TimeCard Source\TimeCard.Data\bin\Release\TimeCard.Data.dll
-E:\docs\Demo\TimeCard Source\TimeCard.Data\bin\Release\TimeCard.Data.pdb
-E:\docs\Demo\TimeCard Source\TimeCard.Data\bin\Release\EntityFramework.dll
-E:\docs\Demo\TimeCard Source\TimeCard.Data\obj\Release\ResolveAssemblyReference.cache
-E:\docs\Demo\TimeCard Source\TimeCard.Data\obj\Release\TimeCard.Data.dll
-E:\docs\Demo\TimeCard Source\TimeCard.Data\obj\Release\TimeCard.Data.pdb
