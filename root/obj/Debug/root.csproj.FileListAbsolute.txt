@@ -49,7 +49,6 @@ C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\Lib.Web.Mvc.dll
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\Microsoft.Practices.ServiceLocation.dll
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\System.Web.Helpers.dll
-C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\System.Web.Mvc.dll
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\System.Web.Razor.dll
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\System.Web.WebPages.Deployment.dll
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\System.Web.WebPages.dll
@@ -57,7 +56,6 @@ C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\System.Web.WebPages.Raz
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\Microsoft.Practices.ServiceLocation.xml
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\Microsoft.Web.Infrastructure.xml
-C:\Users\jgiffin\Documents\demo\TimeCard Source\root\bin\System.Web.Mvc.xml
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\obj\Debug\root.csprojResolveAssemblyReference.cache
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\obj\Debug\TimeCard.dll
 C:\Users\jgiffin\Documents\demo\TimeCard Source\root\obj\Debug\TimeCard.pdb
