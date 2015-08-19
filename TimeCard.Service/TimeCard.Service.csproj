@@ -36,7 +36,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Apprenda.Logging, Version=0.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Apprenda.Logging">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>C:\Program Files (x86)\Apprenda\SDK\API Files\Apprenda.Logging.dll</HintPath>
     </Reference>
@@ -44,6 +44,9 @@
       <HintPath>..\3rdParty\EntityFramework.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="SaaSGrid.API">
+      <HintPath>C:\Program Files (x86)\Apprenda\SDK\API Files\SaaSGrid.API.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
